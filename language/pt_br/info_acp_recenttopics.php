@@ -23,7 +23,7 @@ $lang = array_merge(
 	$lang, array(
 	//forum acp
 	'RECENT_TOPICS_LIST'            => 'Exibir tópicos recentes"',
-	'RECENT_TOPICS_LIST_EXPLAIN'    => 'Ativar para exibir tópicos neste fórum na extensão "tópicos recentes"',
+	'RECENT_TOPICS_LIST_EXPLAIN'    => 'Ative para exibir tópicos neste fórum na extensão "tópicos recentes"',
 
 	//acp title
 	'RECENT_TOPICS'                 => 'Tópicos recentes',
@@ -54,9 +54,9 @@ $lang = array_merge(
 	'RT_BOTTOM'                     => 'Mostrar no fundo',
 	'RT_SIDE'                       => 'Mostrar no lado direito',
 	'RT_SORT_START_TIME'            => 'Ordenar tópicos por a hora de início',
-	'RT_SORT_START_TIME_EXP'        => 'Habilite para classificar tópicos recentes pela hora de início do tópico, em vez da última hora de publicação.',
+	'RT_SORT_START_TIME_EXP'        => 'Ative para classificar tópicos recentes pela hora de início do tópico, em vez da última hora de publicação.',
 	'RT_UNREAD_ONLY'                => 'Mostrar apenas tópicos não lidos',
-	'RT_UNREAD_ONLY_EXP'            => 'Ativar para exibir somente tópicos não lidos (se eles são "recentes" ou não). Esta função usa as mesmas configurações (excluindo fóruns / tópicos etc.) como modo normal. Nota: isso só funciona para usuários conectados; Os convidados receberão a lista normal.',
+	'RT_UNREAD_ONLY_EXP'            => 'Ative para exibir somente tópicos não lidos (se eles são "recentes" ou não). Esta função usa as mesmas configurações (excluindo fóruns / tópicos etc.) como modo normal. Nota: isso só funciona para usuários conectados; Os convidados receberão a lista normal.',
 	'RT_RESET_DEFAULT'              => 'Redefinir as configurações do usuário',
 	'RT_RESET_DEFAULT_EXP'          => 'Redefinir as configurações do usuário para o padrão.',
 	
